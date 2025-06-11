@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC ...>
+<plist version="1.0">
+<dict>
+  <key>com.apple.networkextension.packet-tunnel</key>
+  <true/>
+  <key>com.apple.security.application-groups</key>
+  <array>
+    <string>group.com.yourcompany.Privarix</string>
+  </array>
+</dict>
+</plist>
